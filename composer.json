@@ -1,0 +1,18 @@
+{
+    "name": "ihziluoh/cdate",
+    "description": "is a php Date formate functions",
+    "type": "l",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "CDate\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ihziluoh",
+            "email": "ihziluoh@gmail.com"
+        }
+    ],
+    "require": {}
+}
